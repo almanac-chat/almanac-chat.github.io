@@ -51,7 +51,7 @@ const people = [
     name: 'Michael Moor, MD PhD',
     role: 'Stanford Engineering',
     imageUrl:
-      'https://michaelmoor.ml/img/portrait_small25.png',
+      'https://profiles.stanford.edu/proxy/api/cap/profiles/278684/resources/profilephoto/350x350.1664856826853.jpg',
   },
   {
     name: 'Katie Link, BS',
@@ -72,7 +72,7 @@ const advisors = [
     name: 'Pranav Rajpurkar, PhD',
     role: 'Havard Medical School',
     imageUrl:
-      'https://images.squarespace-cdn.com/content/v1/631510b315db3003bd37d753/284407b3-9a2a-4f25-abee-f4411eeb860c/headshot.jpg?format=750w',
+      'https://dbmi.hms.harvard.edu/sites/default/files/profile-photos/PranavRajpurkar.png',
   },
   {
     name: 'Jure Leskovec, PhD',
